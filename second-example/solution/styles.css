@@ -1,0 +1,38 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    color: white;
+    font-size: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+    background: red;
+    color: green;
+}
+
+h1 {
+    text-shadow: 5px 5px 15px rgba(0,0,0,.25);
+    font-family: 'Chewy', cursive;
+    font-size: 7.5em;
+    margin: 0 .25em;
+}
+
+.paragraph-text {
+    color: darkgray;
+}
+
+body {
+    color: blue;
+}
+
+body {
+    color: yellow;
+}
+
+div p {
+    color: goldenrod;
+}
+
+p {
+    color: red;
+}
