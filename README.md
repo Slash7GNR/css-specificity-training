@@ -16,8 +16,6 @@ I got the inspiration from the following links:
 
 ## Setup
 
-`git clone` the project:
-
 ```sh
 git clone https://github.com/Slash7GNR/css-specificity-training.git
 cd css-specificity-training
