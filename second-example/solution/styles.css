@@ -36,3 +36,23 @@ div p {
 p {
     color: red;
 }
+
+#source {
+    color: black;
+}
+
+.source {
+    color: pink;
+}
+
+.section-one {
+    /* some-css */
+}
+
+.section-one__title {
+    /* some-css */
+}
+
+.section-one__text {
+    /* some-css */
+}
